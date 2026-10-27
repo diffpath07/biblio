@@ -1,0 +1,4 @@
+test
+test_leaks
+*.dSYM
+.DS_Store
