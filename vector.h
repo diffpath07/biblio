@@ -5,7 +5,6 @@
 
 typedef struct Vector vec_t;
 
-
 vec_t *vec_new(size_t element_size); 
 
 void vec_free(vec_t *v );  
